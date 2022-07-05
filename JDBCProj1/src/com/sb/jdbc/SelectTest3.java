@@ -1,4 +1,4 @@
-//SelectTest3.javas
+//SelectTest3.java      Lecture no 30
 package com.sb.jdbc;
 
 import java.sql.Connection;
